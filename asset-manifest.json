@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chat/static/css/main.c5cfebd5.css",
+    "main.js": "/chat/static/js/main.37bed23f.js",
+    "static/js/787.5015a7c2.chunk.js": "/chat/static/js/787.5015a7c2.chunk.js",
+    "static/media/assistantSber1.png": "/chat/static/media/assistantSber1.2076f99ff34f2d34c81d.png",
+    "index.html": "/chat/index.html",
+    "main.c5cfebd5.css.map": "/chat/static/css/main.c5cfebd5.css.map",
+    "main.37bed23f.js.map": "/chat/static/js/main.37bed23f.js.map",
+    "787.5015a7c2.chunk.js.map": "/chat/static/js/787.5015a7c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5cfebd5.css",
+    "static/js/main.37bed23f.js"
+  ]
+}
